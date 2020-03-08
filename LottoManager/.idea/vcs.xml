@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CSharp_Curriculum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PythonProjects" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Unity2DRhythm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/UnityProjects" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/XamarinProjects" vcs="Git" />
+  </component>
+</project>
